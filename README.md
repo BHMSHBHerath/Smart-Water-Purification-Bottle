@@ -34,7 +34,8 @@ users can see its quality.
 - [Charging/protection module, wiring, other components]
 
 ## 🔌 Circuit / Wiring
-![Circuit diagram](docs/circuit-diagram.png)
+<img width="1023" height="527" alt="1758621257238" src="https://github.com/user-attachments/assets/f303aa44-678d-4f2b-b43b-d293c4b4f858" />
+
 
 ## 💻 Software
 - Language: Arduino C++ (Arduino IDE)
