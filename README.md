@@ -58,7 +58,7 @@ users can see its quality.
 ## 👥 Team
 - [Tharindu Premasundare](https://www.linkedin.com/in/tharindu-premasundare-09a58827a/)
 - [Sachila Herath](https://www.linkedin.com/in/sachilaherath/)
-- Naveen Weerakoon
+- [Naveen Weerakoon](https://www.linkedin.com/in/naveen-weerakoon-bb5443372/)
 
 ## 📄 License
 MIT License
