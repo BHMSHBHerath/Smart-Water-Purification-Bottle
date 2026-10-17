@@ -23,13 +23,13 @@ users can see its quality.
 | Section | Function |
 |---|---|
 | Upper | 300 ml reservoir for raw water |
-| Middle | Six-layer filtration unit: [list your layers, e.g. gravel, sand, activated carbon...] |
+| Middle | Six-layer filtration unit: [e.g. gravel, sand, activated carbon...] |
 | Bottom | 300 ml tank for purified water, with TDS sensor |
 
 ## 🔧 Hardware
 - ESP32-C3 Super Mini
 - TDS sensor [model]
-- OLED display [model/size, e.g. 0.96" I2C SSD1306]
+- OLED display 
 - 2 × 3.7 V Li-Po batteries
 - [Charging/protection module, wiring, other components]
 
