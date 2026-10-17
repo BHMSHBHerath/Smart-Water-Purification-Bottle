@@ -4,10 +4,10 @@ A miniature water purification bottle with real-time water quality
 monitoring, designed to give underprivileged and slum communities
 access to safe drinking water.
 
-> Developed for the **EPD (Engineering Product Development)** module at
+> Developed for the **EPD (Engineering Product Design)** module at
 > General Sir John Kotelawala Defence University (KDU).
 
-![Prototype]<img width="480" height="657" alt="1758621257213" src="https://github.com/user-attachments/assets/2ca2ec84-1a18-4138-aa90-b0ad4c1cbd97" />
+<img width="480" height="657" alt="1758621257213" src="https://github.com/user-attachments/assets/2ca2ec84-1a18-4138-aa90-b0ad4c1cbd97" />
 
 
 ## 🎯 Problem
