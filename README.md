@@ -23,7 +23,7 @@ users can see its quality.
 | Section | Function |
 |---|---|
 | Upper | 300 ml reservoir for raw water |
-| Middle | Six-layer filtration unit: [e.g. gravel, sand, activated carbon...] |
+| Middle | Six-layer filtration unit: [gravel, sand, activated carbon...] |
 | Bottom | 300 ml tank for purified water, with TDS sensor |
 
 ## 🔧 Hardware
@@ -39,7 +39,7 @@ users can see its quality.
 
 ## 💻 Software
 - Language: Arduino C++ (Arduino IDE)
-- Libraries: [e.g. Adafruit_SSD1306, Adafruit_GFX]
+- Libraries: [Adafruit_SSD1306, Adafruit_GFX]
 - Upload `firmware/water_purifier.ino` to the ESP32-C3 board
 
 ## 📊 Results
@@ -53,7 +53,7 @@ users can see its quality.
 - Affordable for low-income families
 
 ## 🚀 Future Improvements
-- [e.g. pH/turbidity sensing, solar charging, filter replacement alerts]
+- pH/turbidity sensing, solar charging, filter replacement alerts
 
 ## 👥 Team
 - [Tharindu Premasundare](https://www.linkedin.com/in/tharindu-premasundare-09a58827a/)
