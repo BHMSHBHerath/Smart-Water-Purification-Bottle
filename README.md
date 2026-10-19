@@ -7,7 +7,13 @@ access to safe drinking water.
 > Developed for the **EPD (Engineering Product Design)** module at
 > General Sir John Kotelawala Defence University (KDU).
 
-<img width="480" height="657" alt="1758621257213" src="https://github.com/user-attachments/assets/2ca2ec84-1a18-4138-aa90-b0ad4c1cbd97" />
+p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/2ca2ec84-1a18-4138-aa90-b0ad4c1cbd97" 
+    alt="Image" 
+    width="480"
+  />
+</p>
 
 
 ## 🎯 Problem
